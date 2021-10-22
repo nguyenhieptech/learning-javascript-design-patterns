@@ -4,7 +4,7 @@ _A book by Addy Osmani_
 
 ## Preview
 
-![Site Preview](static/img/site-preview.png)
+![Site Preview](/img/site-preview.png)
 
 The content of this book belongs to [Addy Osmani](https://twitter.com/addyosmani).
 
