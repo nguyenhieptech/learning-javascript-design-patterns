@@ -41,7 +41,7 @@ myCar.year = '2010';
 console.log(myCar.getInfo());
 ```
 
-For more ways to define "classes" using JavaScript, see Stoyan Stefanov's useful post on them.
+For more ways to define "classes" using JavaScript, see Stoyan Stefanov's useful [post](http://www.phpied.com/3-ways-to-define-a-javascript-class/) on them.
 
 Let us now proceed to review the table.
 
